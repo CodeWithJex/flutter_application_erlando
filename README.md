@@ -4,16 +4,6 @@ Proyek ini merupakan latihan untuk mengasah skill dalam **Flutter application de
 
 ---
 
-## 📑 Table of Contents
-- [🎯 Tujuan](#-tujuan)
-- [🛠️ Teknologi yang Digunakan](#️-teknologi-yang-digunakan)
-- [📸 Preview Project](#-preview-project)
-- [🚀 Cara Menjalankan](#-cara-menjalankan)
-- [📌 Catatan](#-catatan)
-- [🏷️ Status](#️-status)
-
----
-
 ## 🎯 Tujuan
 - Melatih pemahaman **struktur layout** di Flutter  
 - Mempelajari penggunaan widget dasar seperti:  
