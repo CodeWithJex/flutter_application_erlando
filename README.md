@@ -50,10 +50,10 @@ Berikut adalah tampilan hasil latihan layout sederhana:
 ## 🚀 Cara Menjalankan
 ```bash
 # 1. Clone repository ini
-git clone https://github.com/username/flutter-latihan-layout.git
+git clone https://github.com/CodeWithJex/flutter_application_erlando.git
 
 # 2. Masuk ke folder project
-cd flutter-latihan-layout
+cd flutter_application_ERC
 
 # 3. Jalankan aplikasi
 flutter run
